@@ -1,0 +1,16 @@
+#email, #password{
+    padding: 8px 10px;
+    font-size: large;
+    border-radius: 6px;
+}
+
+#password{
+    margin-top: 8px;
+}
+
+.submit{
+    padding: 8px 12px;
+    font-size: large;
+    border-radius: 6px;
+    margin-top: 10px;
+}
